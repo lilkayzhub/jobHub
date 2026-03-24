@@ -1,3 +1,6 @@
+# Documentation
+README.md
+
 # Python
 backend/venv/
 backend/__pycache__/
